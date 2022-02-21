@@ -1,9 +1,10 @@
-title: "jekyll-shell-theme"
+title: "Hamlet Fernandez Personal Portfolio"
+email: hamlet@uchicago.edu
 tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
-github_username: tareqdandachi
-baseurl: "/jekyll-shell-theme"
-url: "https://tareqdandachi.github.io"
+description: "Hamlet's test portfolio website using jekyll shell theme"
+github_username: hamletfernandez
+baseurl: ""
+url: "https://hamletfernandez.github.io"
 
 plugins:
   - jemoji
